@@ -1,0 +1,46 @@
+Date : 2023-01-27 10:14:12
+Directory : c:\Users\rober\Desktop\BankProject
+Total : 16 files,  26378 codes, 34 comments, 100 blanks, all 26512 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |     24,742 |         16 |          2 |     24,760 |
+| JavaScript         |         11 |      1,576 |         18 |         89 |      1,683 |
+| TypeScript React   |          1 |         57 |          0 |          8 |         65 |
+| JSON with Comments |          1 |          3 |          0 |          1 |          4 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                         |         16 |     26,378 |         34 |        100 |     26,512 |
+| . (Files)                                                 |          9 |     24,883 |         22 |         26 |     24,931 |
+| components                                                |          3 |         52 |          1 |          9 |         62 |
+| screens                                                   |          4 |      1,443 |         11 |         65 |      1,519 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                  | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\rober\Desktop\BankProject\App.js                 | JavaScript         |         54 |          1 |          7 |         62 |
+| c:\Users\rober\Desktop\BankProject\Hello.tsx              | TypeScript React   |         57 |          0 |          8 |         65 |
+| c:\Users\rober\Desktop\BankProject\app.json               | JSON               |         18 |         16 |          0 |         34 |
+| c:\Users\rober\Desktop\BankProject\babel.config.js        | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\rober\Desktop\BankProject\components\InputRow.js | JavaScript         |         19 |          0 |          4 |         23 |
+| c:\Users\rober\Desktop\BankProject\components\Redux.js    | JavaScript         |          9 |          1 |          1 |         11 |
+| c:\Users\rober\Desktop\BankProject\components\Task.js     | JavaScript         |         24 |          0 |          4 |         28 |
+| c:\Users\rober\Desktop\BankProject\firebase.js            | JavaScript         |         17 |          5 |          6 |         28 |
+| c:\Users\rober\Desktop\BankProject\jest.config.js         | JavaScript         |          4 |          0 |          1 |          5 |
+| c:\Users\rober\Desktop\BankProject\package-lock.json      | JSON               |     24,683 |          0 |          1 |     24,684 |
+| c:\Users\rober\Desktop\BankProject\package.json           | JSON               |         41 |          0 |          1 |         42 |
+| c:\Users\rober\Desktop\BankProject\screens\HomeScreen.js  | JavaScript         |        822 |          3 |         24 |        849 |
+| c:\Users\rober\Desktop\BankProject\screens\LoginScreen.js | JavaScript         |        231 |          3 |         14 |        248 |
+| c:\Users\rober\Desktop\BankProject\screens\Stocks.js      | JavaScript         |        133 |          0 |         10 |        143 |
+| c:\Users\rober\Desktop\BankProject\screens\Wishlist.js    | JavaScript         |        257 |          5 |         17 |        279 |
+| c:\Users\rober\Desktop\BankProject\tsconfig.json          | JSON with Comments |          3 |          0 |          1 |          4 |
+| Total                                                     |                    |     26,378 |         34 |        100 |     26,512 |
++-----------------------------------------------------------+--------------------+------------+------------+------------+------------+

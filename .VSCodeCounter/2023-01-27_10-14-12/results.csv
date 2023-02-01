@@ -1,0 +1,18 @@
+"filename", "language", "JSON", "JSON with Comments", "JavaScript", "TypeScript React", "comment", "blank", "total"
+"c:\Users\rober\Desktop\BankProject\App.js", "JavaScript", 0, 0, 54, 0, 1, 7, 62
+"c:\Users\rober\Desktop\BankProject\Hello.tsx", "TypeScript React", 0, 0, 0, 57, 0, 8, 65
+"c:\Users\rober\Desktop\BankProject\app.json", "JSON", 18, 0, 0, 0, 16, 0, 34
+"c:\Users\rober\Desktop\BankProject\babel.config.js", "JavaScript", 0, 0, 6, 0, 0, 1, 7
+"c:\Users\rober\Desktop\BankProject\components\InputRow.js", "JavaScript", 0, 0, 19, 0, 0, 4, 23
+"c:\Users\rober\Desktop\BankProject\components\Redux.js", "JavaScript", 0, 0, 9, 0, 1, 1, 11
+"c:\Users\rober\Desktop\BankProject\components\Task.js", "JavaScript", 0, 0, 24, 0, 0, 4, 28
+"c:\Users\rober\Desktop\BankProject\firebase.js", "JavaScript", 0, 0, 17, 0, 5, 6, 28
+"c:\Users\rober\Desktop\BankProject\jest.config.js", "JavaScript", 0, 0, 4, 0, 0, 1, 5
+"c:\Users\rober\Desktop\BankProject\package-lock.json", "JSON", 24683, 0, 0, 0, 0, 1, 24684
+"c:\Users\rober\Desktop\BankProject\package.json", "JSON", 41, 0, 0, 0, 0, 1, 42
+"c:\Users\rober\Desktop\BankProject\screens\HomeScreen.js", "JavaScript", 0, 0, 822, 0, 3, 24, 849
+"c:\Users\rober\Desktop\BankProject\screens\LoginScreen.js", "JavaScript", 0, 0, 231, 0, 3, 14, 248
+"c:\Users\rober\Desktop\BankProject\screens\Stocks.js", "JavaScript", 0, 0, 133, 0, 0, 10, 143
+"c:\Users\rober\Desktop\BankProject\screens\Wishlist.js", "JavaScript", 0, 0, 257, 0, 5, 17, 279
+"c:\Users\rober\Desktop\BankProject\tsconfig.json", "JSON with Comments", 0, 3, 0, 0, 0, 1, 4
+"Total", "-", 24742, 3, 1576, 57, 34, 100, 26512
